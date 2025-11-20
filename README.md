@@ -1,4 +1,4 @@
-# 📄 Sistema de Gerenciamento de Currículos (CRUD)
+# 📄 Sistema de Gerenciamento de Currículos 
 
 Este projeto é um sistema simples em Python que permite cadastrar, listar, buscar, atualizar e excluir currículos.
 O programa funciona inteiramente em terminal e utiliza uma lista como armazenamento em memória.
